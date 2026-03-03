@@ -1,0 +1,21 @@
+# Streamlit for the dashboard
+streamlit
+
+# AWS Athena connector
+PyAthena
+
+# Data manipulation
+pandas
+numpy
+
+# Interactive plotting
+plotly
+
+# AWS SDK for Python
+boto3
+
+# Optional: date parsing helpers
+python-dateutil
+
+# Optional: caching dependencies (used by Streamlit)
+cachetools
